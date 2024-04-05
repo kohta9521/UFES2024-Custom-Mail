@@ -8,7 +8,7 @@
     <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="../images/mail_hero.png"
+          src="../images/mail_hero2.png"
           alt="イベント"
           width="600px"
         ></mj-image>
