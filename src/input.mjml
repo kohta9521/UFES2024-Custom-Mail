@@ -8,7 +8,7 @@
     <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-image
-          src="../images/mailhero.png"
+          src="../images/mail_hero.png"
           alt="イベント"
           width="600px"
         ></mj-image>
@@ -131,11 +131,11 @@
             場所
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            〒106-0032
+            〒150-0041
             <br />
-             東京都港区六本木６丁目４−１
+             東京都渋谷区神南１丁目１４−７ ワイズ神南ビル 2階
             <br />
-            ヒルズ ハリウッド プラザ 5Ｆ
+            SLOTH space shibuya 2F
           </mj-text>
         </mj-column>
         <mj-column width="50%">
@@ -143,9 +143,9 @@
             日程
           </mj-text>
           <mj-text color="#637381" font-size="14px" padding-top="0">
-            2024年 4月 ５日 金曜日
+            2024年 5月 2日 木曜日
             <br />
-            10:00 ~ 18:00
+            18:00 ~ 22:00
           </mj-text>
         </mj-column>
       </mj-section>
