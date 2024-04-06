@@ -24,7 +24,7 @@
           align="center"
           font-size="20px"
         >
-          UFES 2024 ~春の陣~　事前申し込み完了メール
+          UFES 2024 ~春の陣~ 事前申し込み完了メール
         </mj-text>
         <mj-text color="#637381" font-size="16px" align="center">
           {name}さんUFES 2024~春の陣~へのご登録ありがとうございます。
@@ -67,7 +67,7 @@
                   <mj-text color="#637381" font-size="16px">
             <ul>
               <li style="padding-bottom: 20px"><strong>年齢確認ができる【身分証明書】を必ずご持参ください</li>
-              <li style="padding-bottom: 20px"><strong>当日は10時-18時出入り自由のイベントとなっております！プログラムによっては混雑が予想されますのでそこは前もってご参加ください。</li>
+              <li style="padding-bottom: 20px"><strong>当日は18時-22時出入り自由のイベントとなっております!</li>
             </ul>
           </mj-text>
         <mj-text color="#637381" font-size="16px" padding-bottom="30px" align="center">
