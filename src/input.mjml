@@ -68,8 +68,23 @@
             <ul>
               <li style="padding-bottom: 20px"><strong>年齢確認ができる【身分証明書】を必ずご持参ください</li>
               <li style="padding-bottom: 20px"><strong>当日は18時-22時出入り自由のイベントとなっております!</li>
+              <li style="padding-bottom: 20px"><strong>以下当日の会場の写真です！皆様に素晴らしい体験をお届けさせていただきます！</li>
             </ul>
           </mj-text>
+
+          <mj-image
+          src="../images/entrance.jpg"
+          alt="イベント"
+          width="500px"
+          padding-bottom="30px"
+          ></mj-image>
+          <mj-image
+          src="../images/flex.jpg"
+          alt="イベント"
+          width="500px"
+          padding-bottom="30px"
+          ></mj-image>
+
         <mj-text color="#637381" font-size="16px" padding-bottom="30px" align="center">
           今後のイベント情報については、公式サイトをご確認ください。また、公式サイトだけではなく公式インスタグラムも日々更新していきますので是非フォローとチェックをお願いします。
           <br />
